@@ -1,0 +1,9 @@
+{
+    "embeddings_dictionary_size": 500000,
+    "embeddings_vector_size": 50,
+    "padding_size": 20,
+    "batch_size": 1000,
+    "embeddings_path": "glove.50d.txt",
+    "input_tensor_name": "embedding_input",
+    "num_epoch": 5
+}
