@@ -59,4 +59,6 @@ Link to the GloVe dictionary (200d) on the S3: https://e4577-cloud.s3.amazonaws.
 
 ### Reference
 
+Under the instruction of Professor Pierre-Hadrien Arnoux @ Columbia University
+
 Twitter GloVe embedding dictionary from https://github.com/stanfordnlp/GloVe
