@@ -26,7 +26,7 @@ def lambda_handler(event, context):
     begin_model_inference_time = datetime.datetime.now()
 
     model_response = sage_maker_client.invoke_endpoint(
-        EndpointName = "sentiment-model-aiops",
+        EndpointName = "final-project",
         ContentType = "application/json",
         Body = json.dumps(model_payload))
 
