@@ -36,6 +36,14 @@ Link to the raw dataset on the S3: https://aiops-2020-public.s3.us-east-2.amazon
 
 <br>
 
+***model_training***
+* `sentiment_dataset.py`: load datasets
+* `training_config.json`: store the value of model parameters
+* `sentiment_model_cnn.py`: define the CNN model
+* `sentiment_training.py`: pass in arguments and train the model
+
+<br>
+
 ***model-saved***: the final version of the trained model
 
 <br>
