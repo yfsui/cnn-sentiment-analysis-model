@@ -6,6 +6,7 @@
 * `dev.csv`
 * `eval.csv`
 
+<br>
 
 ***lambda-function***
 * `my_lambda_pre_processor.py`: lambda function
@@ -17,7 +18,8 @@
     - resources
       - `glove.txt`: embedding dictionary (without vector)
       
-     
+<br>
+
 ***aws-glue-job***
 * `glue_preprocessing_job_script.py`: script for Glue ETL job
 * `glue-job-output`: processed data
@@ -26,6 +28,7 @@
     * `eval.json`
 
 
+<br>
 
 Link to dictionary (25d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.txt 
 
