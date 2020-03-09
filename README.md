@@ -48,8 +48,15 @@ Link to the raw dataset on the S3: https://aiops-2020-public.s3.us-east-2.amazon
 
 <br>
 
-Link to dictionary (25d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.txt 
 
-Link to dictionary (50d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.50d.txt 
+Link to the GloVe dictionary (25d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.txt 
 
-Link to dictionary (200d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.200d.txt 
+Link to the GloVe dictionary (50d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.50d.txt 
+
+Link to the GloVe dictionary (200d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.200d.txt 
+
+<br>
+
+### Reference
+
+Twitter GloVe embedding dictionary from https://github.com/stanfordnlp/GloVe
