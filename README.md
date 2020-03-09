@@ -36,6 +36,10 @@ Link to the raw dataset on the S3: https://aiops-2020-public.s3.us-east-2.amazon
 
 <br>
 
+***model-saved***: the final version of the trained model
+
+<br>
+
 Link to dictionary (25d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.txt 
 
 Link to dictionary (50d) on the S3: https://e4577-cloud.s3.amazonaws.com/dictionary/glove.50d.txt 
