@@ -1,7 +1,10 @@
 # CNN Sentiment Analysis Model
 ## End-to-end Training and Deployment on the AWS
 
-***raw-data.zip***: unprocessed data
+***raw-data.zip***: unprocessed data, split into three subsets
+
+Link to the raw dataset on the S3: https://aiops-2020-public.s3.us-east-2.amazonaws.com/training.full.csv
+
 * `train.csv`
 * `dev.csv`
 * `eval.csv`
@@ -27,6 +30,9 @@
     * `dev.json`
     * `eval.json`
 
+<br>
+
+***sagemaker_jupyter_code.ipynb***: jupyter notebook used to train model on the SageMaker
 
 <br>
 
